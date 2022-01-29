@@ -28,7 +28,7 @@
 </p>
 
 <h3 align="center">Languages</h3>
-<div display="flex" flex-direction="row">
+<div display=flex flex-direction=row>
     <h4 align="center">Frequently use</h4>
     <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
     <h4 align="center">Can use</h4>
