@@ -1,17 +1,19 @@
 <h1 align="center">Hey ! I'm Mickael Boillaud, but you can call me Mick</h1>
 <h3 align="center">I passionate by programming 💻 and physics 🪐⚡️. Love discovering and learning new things about every topics.</h3>
 
-- 🔭 I’m currently working on [Python](https://github.com/Camaltra/holbertonschool-higher_level_programming) fundamental
+<p align="center"> 
+🔭 I’m currently working on <a href="https://github.com/Camaltra/holbertonschool-higher_level_programming">Python</a> fundamental
 
-- 🌱 I’m currently learning **Python | React**
+🌱 I’m currently learning **Python | React**
 
-- 📝 I regularly write articles on [medium](https://medium.com/@mickael.boillaud)
+📝 I regularly write articles on [medium](https://medium.com/@mickael.boillaud)
 
-- 💬 Ask me about **C language 😎**
+💬 Ask me about **C language 😎**
 
-- 📫 How to reach me **mickael.boillaud@gmail.com**
+📫 How to reach me **mickael.boillaud@gmail.com**
 
-- ⚡ Fun fact **I live in Grenoble 🏔, but don't like skiing**
+⚡ Fun fact **I live in Grenoble 🏔, but don't like skiing**
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
