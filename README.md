@@ -34,4 +34,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=camaltra&show_icons=true&locale=en" alt="camaltra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=camaltra&" alt="camaltra" /></p>
