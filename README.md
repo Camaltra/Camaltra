@@ -3,15 +3,10 @@
 
 <p align="center"> 
 🔭 I’m currently working on <a href="https://github.com/Camaltra/holbertonschool-higher_level_programming">Python</a> fundamental
-
 🌱 I’m currently learning **Python | React**
-
-📝 I regularly write articles on [medium](https://medium.com/@mickael.boillaud)
-
+📝 I regularly write articles on <a href= "https://medium.com/@mickael.boillaud">medium</a>
 💬 Ask me about **C language 😎**
-
 📫 How to reach me **mickael.boillaud@gmail.com**
-
 ⚡ Fun fact **I live in Grenoble 🏔, but don't like skiing**
 </p>
 
