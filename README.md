@@ -1,18 +1,18 @@
-<h1 align="center">Hey ! Welcome on my Github !<br/>
-Delighted to see you here !</h1>
+<h1 align="center">👋 Hey !<br/> Welcome on my Github !<br/>
+Delighted to see you here ! 😎</h1>
 <h3 align="center">I'm passionate by programming 💻 and physics 🪐⚡️. Love discovering and learning new things about every topics.</h3>
 
 <p align="center"> 
 🔭 I’m currently working on <a href="https://github.com/Camaltra/holbertonschool-higher_level_programming">Python</a> fundamental
 </p>
 <p align="center"> 
-🌱 I’m currently learning **Python | React**
+🌱 I’m currently learning Python | React
 </p>
 <p align="center"> 
 📝 I regularly write articles on <a href= "https://medium.com/@mickael.boillaud">medium</a>
 </p>
 <p align="center"> 
-💬 Ask me about C language 😎
+💬 Ask me about the C language 😎
 </p>
 <p align="center"> 
 📫 How to reach me mickael.boillaud@gmail.com
