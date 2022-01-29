@@ -11,13 +11,13 @@
 📝 I regularly write articles on <a href= "https://medium.com/@mickael.boillaud">medium</a>
 </p>
 <p align="center"> 
-💬 Ask me about **C language 😎**
+💬 Ask me about C language 😎
 </p>
 <p align="center"> 
-📫 How to reach me **mickael.boillaud@gmail.com**
+📫 How to reach me mickael.boillaud@gmail.com
 </p>
 <p align="center"> 
-⚡ Fun fact **I live in Grenoble 🏔, but don't like skiing**
+⚡ Fun fact : I live in Grenoble 🏔, but don't like skiing
 </p>
 
 <h3 align="center">Connect with me:</h3>
