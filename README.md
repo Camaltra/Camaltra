@@ -3,12 +3,6 @@ Delighted to see you here ! 😎</h1>
 <h4 align="center">To shortly introduce myself, I am Mickael Boillaud, a creative computer science student at Holberton School, located in the North of France. Right before getting into coding world, I got a Bachelor of Physics which allowed me to grow my mathematical skills, but also my logical mind. For now, and thanks to my background, I major the French cohort, but also serve as class representative, which allows me to develop and strengthen my skills in communication, teamwork and transformational leadership.</h4>
 <h4 align="center">I currently looking forward for a first intership, in France, England or USA up to 7 months, before getting specialized into machine learning</h4>
 
-<p align="center"> 
-🔭 I’m currently working on <a href="https://github.com/Camaltra/holbertonschool-higher_level_programming">High-Level-Programming</a> fundamental</br>
-🤗 Here is my <a href= "https://www.linkedin.com/in/mickael-boillaud/">linkedIn</a> profil</br>
-📝 You can find my article on <a href= "https://medium.com/@mickael.boillaud">medium</a>
-</p>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/mickael boillaud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mickael boillaud" height="30" width="40" /></a>
