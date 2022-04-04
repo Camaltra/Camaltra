@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hey !<br/> Welcome on my Github !<br/>
 Delighted to see you here ! 😎</h1>
-<h3 align="center">I'm passionate by programming 💻 and physics 🪐⚡️. Love discovering and learning new things about every topics.</h3>
+<h4 align="center">To shortly introduce myself, I am Mickael Boillaud, a creative computer science student at Holberton School, located in the North of France. Right before getting into coding world, I got a Bachelor of Physics which allowed me to grow my mathematical skills, but also my logical mind. For now, and thanks to my background, I major the French cohort, but also serve as class representative, which allows me to develop and strengthen my skills in communication, teamwork and transformational leadership.</h4>
+<h4 align="center">I currently looking forward for a first intership, in France, England or USA up to 7 months, before getting specialized into machine learning</h4>
 
 <p align="center"> 
 🔭 I’m currently working on <a href="https://github.com/Camaltra/holbertonschool-higher_level_programming">Python</a> fundamental
@@ -34,7 +35,7 @@ Delighted to see you here ! 😎</h1>
 <h4 align="center">Can use</h4>
 <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </p>
 <h4 align="center">Learning</h4>
-<p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 
 <h3 align="center">Tools</h3>
