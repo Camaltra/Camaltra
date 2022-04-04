@@ -1,13 +1,13 @@
-<h1 align="center">👋 Hey !<br/> Welcome on my Github !<br/>
-Delighted to see you here ! 😎</h1>
+<h1 align="center">👋 Hey !<br/> Welcome on my Github ! 😎</h1>
 <h4 align="center">To shortly introduce myself, I am Mickael Boillaud, a creative computer science student at Holberton School, located in the North of France. Right before getting into coding world, I got a Bachelor of Physics which allowed me to grow my mathematical skills, but also my logical mind. For now, and thanks to my background, I major the French cohort, but also serve as class representative, which allows me to develop and strengthen my skills in communication, teamwork and transformational leadership.</h4>
-<h4 align="center">I currently looking forward for a first intership, in France, England or USA up to 7 months, before getting specialized into machine learning</h4>
+<h4 align="center">I currently looking forward for a first intership, in USA, England or France up to 7 months, before getting specialized into machine learning</h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/mickael boillaud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mickael boillaud" height="30" width="40" /></a>
 <a href="https://instagram.com/mkael.mp2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mkael.mp2" height="30" width="40" /></a>
 <a href="https://medium.com/@mickael.boillaud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mickael.boillaud" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/camaltra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="camaltra" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages</h3>
