@@ -4,22 +4,9 @@ Delighted to see you here ! 😎</h1>
 <h4 align="center">I currently looking forward for a first intership, in France, England or USA up to 7 months, before getting specialized into machine learning</h4>
 
 <p align="center"> 
-🔭 I’m currently working on <a href="https://github.com/Camaltra/holbertonschool-higher_level_programming">Python</a> fundamental
-</p>
-<p align="center"> 
-🌱 I’m currently learning Python | React
-</p>
-<p align="center"> 
-📝 I regularly write articles on <a href= "https://medium.com/@mickael.boillaud">medium</a>
-</p>
-<p align="center"> 
-💬 Ask me about the C language 😎
-</p>
-<p align="center"> 
-📫 How to reach me mickael.boillaud@gmail.com
-</p>
-<p align="center"> 
-⚡ Fun fact : I live in Grenoble 🏔, but don't like skiing
+🔭 I’m currently working on <a href="https://github.com/Camaltra/holbertonschool-higher_level_programming">High-Level-Programming</a> fundamental</br>
+🤗 Here is my <a href= "https://www.linkedin.com/in/mickael-boillaud/">linkedIn</a> profil</br>
+📝 You can find my article on <a href= "https://medium.com/@mickael.boillaud">medium</a>
 </p>
 
 <h3 align="center">Connect with me:</h3>
