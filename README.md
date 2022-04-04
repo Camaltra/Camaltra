@@ -2,6 +2,8 @@
 <h4 align="center">To shortly introduce myself, I am Mickael Boillaud, a creative computer science student at Holberton School, located in the North of France. Right before getting into coding world, I got a Bachelor of Physics which allowed me to grow my mathematical skills, but also my logical mind. For now, and thanks to my background, I major the French cohort, but also serve as class representative, which allows me to develop and strengthen my skills in communication, teamwork and transformational leadership.</h4>
 <h4 align="center">I currently looking forward for a first intership, in USA, England or France up to 7 months, before getting specialized into machine learning</h4>
 
+<h4 align="center">Currently working on Web Developpement at school, but it's not really interest me, So I put effort to working on side project to work on data analysis, and get a feet into machine learning. I also deppen my knowledge on algorithms, data structures, system design and so on, on LeetCode and AlgoExpert platform</h4>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/mickael boillaud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mickael boillaud" height="30" width="40" /></a>
