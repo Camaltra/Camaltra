@@ -13,7 +13,7 @@
 <a href="https://instagram.com/mkael.mp2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mkael.mp2" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">Languages && Package && FrameWork</h2>
+<h2 align="center">Languages | Package | FrameWork</h2>
 <h3 align="center">Frequently use</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <h4 align="center">Oftenly use</h4>
