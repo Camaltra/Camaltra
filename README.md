@@ -1,9 +1,8 @@
 <h1 align="center">👋 Hey !<br/> Welcome on my Github ! 😎</h1>
-<h3 align="center">I currently looking forward for a first internship, in USA, England, France or Remote from 3 months up to 7 months starting on mid-July, before getting specialized into machine learning</h3>
 <h2 align="center">About me</h2>
-<h4 align="center">To shortly introduce myself, I am Mickael Boillaud, a creative computer science student at Holberton School, located in the North of France. Right before getting into coding world, I got a Bachelor of Physics which allowed me to grow my mathematical skills, but also my logical mind. For now, and thanks to my background, I major the French cohort, but also serve as class representative, which allows me to develop and strengthen my skills in communication, teamwork and transformational leadership.</h4>
+<h4 align="center">Nice to meet you, I'm Mickael, currently a student in Machine Learning | Data science, in intership at Napta (Ex: PickYourSkills). I also get a Bachelor of Physics.</h4>
 
-<h4 align="center">Currently working on Web Developpement at school, but it's not really interest me, So I put effort on working on side projects such as data analysis, to get closer to machine learning field. I also deepen my knowledge on algorithms, data structures, systems design and so on, on LeetCode and AlgoExpert platforms</h4>
+<h4 align="center">I'm currently work as a data engineer through my intership. Aside of this activity, I continue my learning journey at Zero To Mastery on the ML and TensorFlow courses, before get back to my last year at Holberton School in the ML specialization.</h4>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
@@ -12,6 +11,7 @@
 <a href="https://www.leetcode.com/camaltra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="camaltra" height="30" width="40" /></a>
 </p>
 
+<p>--- Old Infos from 01/06/2022 ---</p>
 <h2 align="center">Languages | Package | FrameWork</h2>
 <h3 align="center">Frequently use</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </p>
