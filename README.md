@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hey !<br/> Welcome on my Github ! 😎</h1>
 <h2 align="center">About me</h2>
+<h2 align="center">All deprecated</h2>
 <h4 align="center">Nice to meet you, I'm Mickael, currently a student in Machine Learning | Data science, in intership at Napta (Ex: PickYourSkills). I also got a Bachelor of Physics before starting my code journey.</h4>
 
 <h4 align="center">I'm currently work as a data engineer through my intership. Aside of this activity, I continue my learning journey at Zero To Mastery on the ML and TensorFlow courses, before getting back to my last year at Holberton School in the ML specialization.</h4>
