@@ -1,33 +1,24 @@
 # 👋 Welcome on my Github ! 😎
 ## About me
 ### Actual position
-📚Student in Machine Learning, specialised in Deep Learning
-
+📚Student in Machine Learning, specialised in Deep Learning  
 💼 Data & Back-End Engineer at Napta
 ### Technical Area of interest
-💻 Computer Vision
-
-🔭 Astrophysics -- Spacial discovery (Want to bring AI to this)
-
+💻 Computer Vision  
+🔭 Astrophysics -- Spacial discovery (Want to bring AI to this)  
 🤖 Data engineering and MLops
 ### Non Technical Area of interest
-📖 Meta Learning
-
-🖊️ Creating educationnal content (Not yet published)
-
+📖 Meta Learning  
+🖊️ Creating educationnal content (Not yet published)  
 💪 Self development in general and sport
 ### Challenge of this year
-🚀 Sharpen my knowledge on AI, from simple model implementation to all MLops environment
-
-✍️ Create content to follow my student and AI journey
-
+🚀 Sharpen my knowledge on AI, from simple model implementation to all MLops environment  
+✍️ Create content to follow my student and AI journey  
 🧘‍ Growth as a person
 
 ### Currently working on
-🚀Develop more robust and scalable ETL process
-
-🧠 [ML model and maths](https://github.com/Camaltra/holbertonschool-machine_learning)
-
+🚀Develop more robust and scalable ETL process  
+🧠 [ML model and maths](https://github.com/Camaltra/holbertonschool-machine_learning)  
 🤖 Learn how to build MLops pipeline
 
 
@@ -39,7 +30,7 @@
 <a href="https://www.leetcode.com/camaltra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="camaltra" height="30" width="40" /></a>
 </p>
 
-<h2>Languages</h2>
+## Languages
 - ***Python***
 - ***JavaScript***
 - ***C***
@@ -47,8 +38,8 @@
 - Bash 
 - HTML | CSS
 
-<h2>Package | FrameWork</h2>
-<h3>Data | Ai | Python Packages</h3>
+## Package | FrameWork
+### Data | Ai | Python Packages
 - **Tensorflow** 
 - **Keras** 
 - **Numpy** 
@@ -59,19 +50,19 @@
 - **Flask** 
 - FastAPI
 
-<h3>Databases</h3>
+### Databases
 - **SQL** (MySQL - **Postgre**)
 - **Vector DB**
 - No SQL (Mango) 
 
-<h3>CI | CD | Devops</h3>
+### CI | CD | Devops
 - **Git** | **GitHub** | **GitLab** | BitBucket
 - **AWS** 
 - **Docker** 
 - Linux | Unix
 - Nginx
 
-<h3>Other (JS)</h3>
+### Other (JS)
 - Express.js
 - React.js
 - Jest.js
