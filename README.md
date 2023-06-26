@@ -5,7 +5,7 @@
 💼 Data & Back-End Engineer at Napta
 ### Technical Area of interest
 💻 Computer Vision  
-🔭 Astrophysics -- Spacial discovery (Want to bring AI to this)  
+🔭 Astrophysics -- Space discovery (Want to bring AI to this)  
 🤖 Data engineering and MLops
 ### Non Technical Area of interest
 📖 Meta Learning  
