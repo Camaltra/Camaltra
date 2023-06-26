@@ -9,17 +9,17 @@
 🤖 Data engineering and MLops
 ### Non Technical Area of interest
 📖 Meta Learning  
-🖊️ Creating educationnal content (Not yet published)  
+🖊️ Creating educationnal contents (Not yet published)  
 💪 Self development in general and sport
 ### Challenge of this year
 🚀 Sharpen my knowledge on AI, from simple model implementation to all MLops environment  
-✍️ Create content to follow my student and AI journey  
+✍️ Create contents to follow my student and AI journey  
 🧘‍ Growth as a person
 
 ### Currently working on
 🚀Develop more robust and scalable ETL process  
 🧠 [ML model and maths](https://github.com/Camaltra/holbertonschool-machine_learning)  
-🤖 Learn how to build MLops pipeline
+🤖 Learn how to build MLops pipelines
 
 
 
