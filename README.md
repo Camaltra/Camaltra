@@ -2,7 +2,6 @@
 ## About me
 ### Actual position
 📚Student in Machine Learning, specialised in Deep Learning  
-💼 Data & Back-End Engineer at Napta
 ### Technical Area of interest
 💻 Computer Vision  
 🔭 Astrophysics -- Space discovery (Want to bring AI to this)  
