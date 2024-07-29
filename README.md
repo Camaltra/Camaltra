@@ -3,7 +3,7 @@
 ### Actual position
 AI & Photonics Researcher Intern @STMicroelectronics 
 ### Technical Area of interest
-💻 Computer Vision
+💻 Computer Vision     
 🔭 Astrophysics -- Space discovery (Want to bring AI to this)  
 🤖 Data engineering and MLops
 ### Non Technical Area of interest
