@@ -12,9 +12,9 @@ AI & Photonics Researcher Intern @STMicroelectronics
 💪 Self development in general and sport
 
 ### Currently working on
-🚀 3D Point Cloud Computer Vision Models 
-🧠 Deeply GenAI for computer Vision
-🤖 MLops & Photonics
+🚀 3D Point Cloud Computer Vision Models     
+🧠 Deeply GenAI for computer Vision     
+🤖 MLops & Photonics     
 
 
 <h2>Connect with me:</h2>
