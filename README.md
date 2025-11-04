@@ -1,7 +1,7 @@
 # 👋 Welcome on my Github ! 😎
 ## About me
 ### Actual position
-AI & Photonics Researcher Intern @STMicroelectronics 
+Confirmed Data Engineer @Napta 
 ### Technical Area of interest
 💻 Computer Vision     
 🔭 Astrophysics -- Space discovery (Want to bring AI to this)  
@@ -14,7 +14,7 @@ AI & Photonics Researcher Intern @STMicroelectronics
 ### Currently working on
 🚀 3D Point Cloud Computer Vision Models     
 🧠 Deeply GenAI for computer Vision     
-🤖 MLops & Photonics     
+🤖 MLops 
 
 
 <h2>Connect with me:</h2>
